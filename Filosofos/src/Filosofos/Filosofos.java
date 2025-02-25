@@ -1,3 +1,5 @@
+package Filosofos;
+
 import java.util.concurrent.Semaphore;
 
 public class Filosofos {
